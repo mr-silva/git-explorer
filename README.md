@@ -42,6 +42,7 @@ or
 ##
 > 
 > Contributors:
+
 > Project developed in the [Rocketseat GoStack Bootcamp](https://rocketseat.com.br/gostack)
-> Readme written with [StackEdit](https://stackedit.io/)
-> and with the help of this [Dev](https://dev.to/) post ->  [Como escrever um README.md sensacional no Gihub](https://dev.to/dianaops/como-escrever-um-readme-md-sensacional-no-github-4509) by [Diana Regina](https://dev.to/dianaops)
+
+> Readme written with [StackEdit](https://stackedit.io/) and with the help of this [Dev](https://dev.to/) post ->  [Como escrever um README.md sensacional no Gihub](https://dev.to/dianaops/como-escrever-um-readme-md-sensacional-no-github-4509) by [Diana Regina](https://dev.to/dianaops)
