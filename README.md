@@ -31,12 +31,8 @@ or
 
 
 ## Interface :film_projector:
-> Initial Page:
+<img src="https://github.com/mr-silva/git-explorer/blob/master/images/application.gif" alt="Application Interface" />
 
-<img src="https://github.com/mr-silva/git-explorer/blob/master/images/dashboard.gif" alt="Dashboard.gif" />
-
-> Repository Details Page (In Development :warning:):
- 
 
 
 ##
